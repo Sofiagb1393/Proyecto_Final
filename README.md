@@ -1,2 +1,2 @@
-# Proyecto_Final
-Sofía Granados_Rescue Paws
+# Proyecto
+Sofía Granados Brenes
