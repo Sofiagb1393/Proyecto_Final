@@ -77,6 +77,8 @@ header .main-container nav ul li a:hover{
   top: 0px;
   left: 0px;
   overflow: hidden;
+  left: calc(50% - 1440px/2);
+	
 }
 
  
@@ -245,7 +247,8 @@ header .main-container nav ul li a:hover{
 	width: 1440px;
 	height:979px;
 	position:relative;
-    overflow:hidden;
+        overflow:hidden;
+	left: calc(50% - 1440px/2);
 }
 
 .bckg_adopt { 
@@ -793,8 +796,9 @@ header .main-container nav ul li a:hover{
 	width: 1440px;
 	height:624px;
 	position:relative;
-    overflow:hidden;
+        overflow:hidden;
 	background-color:rgba(81.00000277161598, 68.00000354647636, 185.00000417232513, 1);
+	left: calc(50% - 1440px/2);
 }
 
 .title2 { 
@@ -945,6 +949,7 @@ header .main-container nav ul li a:hover{
 	height:805px;
 	position:absolute;
 	overflow:hidden;
+	left: calc(50% - 1440px/2);
 }
 .mancha { 
 	width:672px;
@@ -1396,6 +1401,7 @@ header .main-container nav ul li a:hover{
 	position:absolute;
 	top: 3940px;
 	overflow:hidden;
+	left: calc(50% - 1440px/2);
 }
 .container_ft { 
 	width:1231px;
