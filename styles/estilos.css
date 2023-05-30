@@ -20,7 +20,6 @@ header{
   position: fixed;
   z-index: 2000; /* Las cosas queden encima en el primer layout */
 }
-}
 
 .main-container{
   max-width: 1200px;
