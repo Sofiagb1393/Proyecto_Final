@@ -79,7 +79,6 @@ header .main-container nav ul li a:hover{
   left: 0px;
   overflow: hidden;
   left: calc(50% - 1440px/2);
-	
 }
 
  
@@ -248,7 +247,7 @@ header .main-container nav ul li a:hover{
 	width: 1440px;
 	height:979px;
 	position:relative;
-        overflow:hidden;
+    overflow:hidden;
 	left: calc(50% - 1440px/2);
 }
 
@@ -797,7 +796,7 @@ header .main-container nav ul li a:hover{
 	width: 1440px;
 	height:624px;
 	position:relative;
-        overflow:hidden;
+    overflow:hidden;
 	background-color:rgba(81.00000277161598, 68.00000354647636, 185.00000417232513, 1);
 	left: calc(50% - 1440px/2);
 }
@@ -1207,7 +1206,7 @@ header .main-container nav ul li a:hover{
 
 .testimonio { 
 	background-color:rgba(255, 196.00000351667404, 33.00000183284283, 1);
-	width:1450px;
+	width:1440px;
 	height:766px;
 	position:relative;
 	overflow:hidden;
@@ -1384,10 +1383,10 @@ header .main-container nav ul li a:hover{
 	width:546px;
 	height:220px;
 	position:absolute;
-	left:275px;
+	left:298px;
 	top:2px;
 	border-radius: 35px;
-	background-image:url(../assets/images/Pic3.png);
+	background-image:url(../assets/images/Pic1.png);
 	background-repeat:no-repeat;
 	background-size:cover;
 }
@@ -1474,6 +1473,7 @@ header .main-container nav ul li a:hover{
 	font-size:15px;
 	letter-spacing:0;
 }
+
 
 
 
